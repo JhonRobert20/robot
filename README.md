@@ -1,4 +1,4 @@
-## Jhon test
+## Robot
 The basic commands are:
 - docker build -t test -f Dockerfile .
 - docker run -i -t test python code/main.py
